@@ -10,6 +10,12 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@ant-design/react-native": "^4.0.0",
+    "@react-native-community/cameraroll": "^4.0.0",
+    "@react-native-community/picker": "^1.6.5",
+    "@react-native-community/segmented-control": "^2.1.0",
+    "@react-native-community/slider": "^3.0.0",
+    "@react-native-community/viewpager": "^4.0.1",
     "react": "16.11.0",
     "react-native": "0.62.2"
   },
